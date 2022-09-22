@@ -1,4 +1,4 @@
-# Software to track nematodes *(H. Glycines)* and analyze behavior at different drug concentrations
+# Automated software to track microscopic worms *(Heterodera Glycines)* and analyze their behavior in drug environments
 
 This software is written for our [paper] in *Phytopathology*:
 
